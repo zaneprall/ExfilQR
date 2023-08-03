@@ -1,0 +1,5 @@
+argparse
+imageio
+qrcode
+numpy
+pillow
