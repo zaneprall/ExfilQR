@@ -17,7 +17,7 @@ markdown
 - `--fps FPS`: The frames per second for the output video (Default is 30).
 - `--chunk-size CHUNK_SIZE`: The size of data chunks that will be converted into individual QR code images (Default is 1024).
 - `--verbose`: Increase output verbosity.
-
+- `-b`: reverse the process and turn .mp4 streams into .txt files
 ## Requirements
 
 This tool requires Python 3.6 or higher, and the following Python libraries:
