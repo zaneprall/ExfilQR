@@ -1,5 +1,7 @@
-argparse
 imageio
+opencv-python
+pyzbar
 qrcode
 numpy
-pillow
+Pillow
+pathos
