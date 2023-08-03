@@ -23,11 +23,14 @@ Please note that this tool can take a very long time to run depending on the siz
 
 This tool requires Python 3.6 or higher, and the following Python libraries:
 
-- argparse
 - imageio
+- opencv-python
+- pyzbar
 - qrcode
 - numpy
-- PIL (pillow)
+- Pillow
+- pathos
+
 ## Installation
 
 ### pip
