@@ -18,6 +18,7 @@ Please note that this tool can take a very long time to run depending on the siz
 - `--chunk-size CHUNK_SIZE`: The size of data chunks that will be converted into individual QR code images (Default is 1024).
 - `--verbose`: Increase output verbosity.
 - `-b`: reverse the process and turn .mp4 streams into .txt files
+- `-p` NUM_PROCESSES : Specify core count for multithreading on larger applications.  
 ## Requirements
 
 This tool requires Python 3.6 or higher, and the following Python libraries:
