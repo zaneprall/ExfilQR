@@ -2,7 +2,7 @@
 A tool to turn text into a QR video feed for very fast data exfiltration using a camera.
 ## Usage
 
-python3 file.py INPUT OUTPUT --fps FPS --chunk-size CHUNK_SIZE
+python3 ExfilQR.py INPUT OUTPUT --fps FPS --chunk-size CHUNK_SIZE
 
 markdown
 
@@ -17,7 +17,7 @@ markdown
 
 ## Requirements
 
-This script requires Python 3.6 or higher, and the following Python libraries:
+This tool requires Python 3.6 or higher, and the following Python libraries:
 
 - argparse
 - imageio
