@@ -9,7 +9,7 @@ python3 ExfilQR.py INPUT OUTPUT --fps FPS --chunk-size CHUNK_SIZE
 
 markdown
 
-
+Please note that this tool can take a very long time to run depending on the size of the file.
 **Arguments:**
 
 - `INPUT`: The path to the input file to be converted into QR code images.
