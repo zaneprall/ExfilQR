@@ -9,7 +9,7 @@ python3 ExfilQR.py INPUT OUTPUT --fps FPS --chunk-size CHUNK_SIZE
 
 
 ```sh
-$ python3 ExfilQR.py /textfiles/file.txt /QRVIDEOS/video.mp4 -fps 30 --chunk-size 1024 -p 4 -v
+$ python3 ExfilQR.py /textfiles/file.txt /QRVIDEOS/video.mp4 --fps 30 --chunk-size 1024 -p 4 -v
 ```
 Please note that this tool can take a very long time to run depending on the size of the file.
 **Arguments:**
