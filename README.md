@@ -1,5 +1,8 @@
 # ExfilQR
 A tool to turn text into a QR video feed for very fast data exfiltration using a camera.
+For example, this is what the python file would look like. 
+
+![](https://github.com/zaneprall/ExfilQR/blob/main/qrsource.gif?raw=true)
 ## Usage
 
 python3 ExfilQR.py INPUT OUTPUT --fps FPS --chunk-size CHUNK_SIZE
