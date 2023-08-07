@@ -1,5 +1,6 @@
 # ExfilQR
 A tool to turn text into a QR video feed for very fast data exfiltration using a camera.
+Adjustable FPS, Data chunking and multithreading are fully functional. 
 For example, this is what the ExfilQR.py file would look like. 
 
 ![](https://github.com/zaneprall/ExfilQR/blob/main/qrsource.gif?raw=true)
