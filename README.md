@@ -5,7 +5,7 @@ Adjustable FPS, Data chunking and multithreading are fully functional.
 
 For example, this is what the ExfilQR.py file would look like. 
 
-![](https://github.com/zaneprall/ExfilQR/blob/main/qrsource.gif?raw=true)
+![](https://github.com/zaneprall/ExfilQR/blob/main/ExfilQR.gif?raw=true)
 ## Usage
 
 python3 ExfilQR.py INPUT OUTPUT --fps FPS --chunk-size CHUNK_SIZE
