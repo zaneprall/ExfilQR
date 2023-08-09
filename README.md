@@ -28,14 +28,14 @@ Please note that this tool can take a very long time to run depending on the siz
 
 This tool requires Python 3.6 or higher, and the following Python libraries:
 
-- imageio
+- imageio[ffmpeg]
 - opencv-python
 - pyzbar
 - qrcode
 - numpy
 - Pillow
 - pathos
-- ffmpeg
+
 ## Installation
 
 ### pip
