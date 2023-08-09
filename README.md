@@ -35,7 +35,7 @@ This tool requires Python 3.6 or higher, and the following Python libraries:
 - numpy
 - Pillow
 - pathos
-
+- ffmpeg
 ## Installation
 
 ### pip
