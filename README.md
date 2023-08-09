@@ -23,7 +23,7 @@ Please note that this tool can take a very long time to run depending on the siz
 - `--chunk-size CHUNK_SIZE`: The size of data chunks that will be converted into individual QR code images (Default is 1024).
 - `--verbose`: Increase output verbosity.
 - `-b`: reverse the process and turn .mp4 streams into .txt files
-- `-p` NUM_PROCESSES : Specify core count for multithreading on larger applications.  
+- `-p NUM_PROCESSES`: Specify core count for multithreading on larger applications.  
 ## Requirements
 
 This tool requires Python 3.6 or higher, and the following Python libraries:
@@ -37,6 +37,8 @@ This tool requires Python 3.6 or higher, and the following Python libraries:
 - pathos
 
 ## Installation
+You may need to add the path to your $ENV
+
 
 ### pip
 
@@ -50,5 +52,7 @@ For apt, you may need to install the Python 3 pip package, and the ffmpeg librar
 
 
 sudo apt-get update
+
 sudo apt-get install python3-pip ffmpeg
+
 pip3 install -r requirements.txt
