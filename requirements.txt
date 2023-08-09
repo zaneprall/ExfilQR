@@ -1,8 +1,7 @@
-imageio
+imageio[ffmpeg]
 opencv-python
 pyzbar
 qrcode
 numpy
 Pillow
 pathos
-ffmpeg
